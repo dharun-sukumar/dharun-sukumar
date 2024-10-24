@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SIH 2024**
 
-- 🌱 I’m currently learning **React, GSAP, TailWind and Django**
+- 🌱 I’m currently learning **3js, GSAP and Django**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
